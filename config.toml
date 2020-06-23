@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://remigioamc.github.io/Fideos-Analytics/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
